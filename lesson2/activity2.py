@@ -1,0 +1,16 @@
+num1=5
+num2=6
+print("number1 :",num1)
+print("number2 : ",num2)
+print("addition : ",num1+num2)
+print("subtraction : ",num1-num2)
+print("multiplication : ",num1*num2)
+print("division : ",num1/num2)
+print("floor division : ",num1//num2)
+print("modulo : ",num1%num2)
+print("square : ",num1**num2)
+print("square roots : ",num1**0.50)
+print("equal opreator : ",num1==num2)
+print("not equal to opreator : ",num1!=num2)
+print("grearter than : ",num1>num2)
+print("lesser than : ",num1<num2)
