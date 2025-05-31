@@ -1,0 +1,16 @@
+my_tuple=()
+print (my_tuple)
+my_tuple=(1,2,3)
+print(my_tuple)
+my_tuple=(1,"aarav" ,3.4)
+print(my_tuple)
+my_tuple=("aarav",[8,5,6],(1,2,3))
+print(my_tuple)
+my_tuple=("a","a","r","a","v")
+print(my_tuple[4])
+n_tuple=("aarav",[8,4,6],(1,2,3))
+print(n_tuple[1][1])
+print(my_tuple[1:3])
+for letter in (my_tuple):
+    print("hello",letter)
+    

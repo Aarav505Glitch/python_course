@@ -1,0 +1,15 @@
+lst=["mango","apple","banana","grapes"]
+print("length of list: ",len(lst))
+print("first element: ",lst[0])
+print("last element: ",lst[-1])
+lst.append("orange")
+print("appended list: ",lst)
+lst.remove("mango")
+print("element removed: ",lst)
+
+lst.sort()
+print("sorted list: ",lst)
+lst.pop(1)
+print("pop element: ",lst)
+lst.reverse()
+print("reverse list: ",lst)
