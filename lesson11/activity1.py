@@ -11,7 +11,7 @@ class dog:
         self.name=name
         self.age=age
     def info(self):
-        print(f"dog name is{self.name},andthe dog is{self.age}years old")
+        print(f"dog name is{self.name},and the dog is{self.age}years old")
     def sound(self):
         print("bark")
 cat1=cat("cat",2.6)
